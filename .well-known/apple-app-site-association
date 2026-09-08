@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "29XF22LH3M.golf.onedown.app",
+        "paths": ["/join", "/join/*", "/r/*"],
+        "components": [
+          { "/": "/join" },
+          { "/": "/join/*" },
+          { "/": "/r/*" }
+        ]
+      }
+    ]
+  }
+}
